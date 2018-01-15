@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cloudinary_id: MyString
+  deleted_at: 2017-12-17 15:45:43
+  to_delete: false
+  cloudinary_data: 
+
+two:
+  cloudinary_id: MyString
+  deleted_at: 2017-12-17 15:45:43
+  to_delete: false
+  cloudinary_data: 
